@@ -8,7 +8,7 @@
   <body>
     <a-scene mindar-image="imageTargetSrc: ./targets.mind; showStats: true;" color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
       <a-assets>
-        <img id="card" src="https://raw.githack.com/JayDeep2204/jack_testing.io/main/top%20view%20the%20flat%202%20rendered%20denoised.png" />
+        <img id="card" src="https://raw.githack.com/JayDeep2204/jack_testing.io/main/targets.mind" />
         <a-asset-item id="avatarModel" src="https://raw.githack.com/JayDeep2204/jack_testing.io/main/the%20flat2.gltf"></a-asset-item>
       </a-assets>
 
